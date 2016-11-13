@@ -21,6 +21,6 @@
   "license": "MIT",
   "dependencies": {
     "merge-deep": "^3.0.0",
-    "ractive": "^0.8.0"
+    "ractive": "^0.8.5"
   }
 }
