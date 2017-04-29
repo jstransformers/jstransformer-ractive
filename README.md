@@ -1,5 +1,7 @@
 # jstransformer-ractive
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-ractive.svg)](https://greenkeeper.io/)
+
 [Ractive.js](http://www.ractivejs.org/) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-ractive/master.svg)](https://travis-ci.org/jstransformers/jstransformer-ractive)
