@@ -1,7 +1,7 @@
 'use strict'
 
-var Ractive = require('ractive')
-var merge = require('merge-deep')
+const Ractive = require('ractive')
+const merge = require('merge-deep')
 
 Ractive.DEBUG = false
 
@@ -10,10 +10,10 @@ exports.inputFormats = ['ractive', 'html']
 exports.outputFormat = 'html'
 
 exports.render = function (str, options, locals) {
-  var opts = merge({template: str}, options)
-  var ractive = new Ractive(opts)
+  const opts = merge({template: str}, options)
+  const ractive = new Ractive(opts)
 
-  Object.keys(locals).forEach(function (key) {
+  Object.keys(locals).forEach(key => {
     ractive.set(key, locals[key])
   })
 
