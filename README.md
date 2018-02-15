@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var ractive = require('jstransformer')(require('jstransformer-ractive'));
+var ractive = require('jstransformer')(require('jstransformer-ractive'))
 
 ractive.render('<h3>Hello {{name}}!</h3>', {name: 'Alice'}).body
 //=> '<h3>Hello Alice!<h3>'
