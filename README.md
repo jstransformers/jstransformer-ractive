@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-ractive/master.svg)](https://travis-ci.org/jstransformers/jstransformer-ractive)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-ractive/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-ractive)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-ractive/master.svg)](http://david-dm.org/jstransformers/jstransformer-ractive)
-
 [![NPM version](https://img.shields.io/npm/v/jstransformer-ractive.svg)](https://www.npmjs.org/package/jstransformer-ractive)
 
 ## Installation
